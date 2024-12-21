@@ -51,6 +51,12 @@
 	#nowrap
 	{
 		display: inline;
+		white-space: nowrap;
+	}
+	a.h
+	{
+		display: inline;
+		text-align: center;
 	}
 	a:hover
 	{

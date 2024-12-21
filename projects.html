@@ -25,6 +25,16 @@ Released   : 20130902
         href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/default.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
+<script>
+function podcast(file,id) {
+	let str_html = "<audio controls><source src=";
+	str_html = str_html.concat(file);
+	str_html = str_html.concat(" type='audio/wav'>Browser does not support this content.</audio>");
+	document.getElementById(id).innerHTML = str_html;
+	/*document.getElementById(id).innerHTML = Date()*/
+	return false;
+}
+</script
 </head>
 <body>
 <div id="page" class="container">
@@ -52,11 +62,84 @@ Released   : 20130902
 		<div id="welcome">
 			<div class="title">
 				<h2>Projects</h2>
-				<span class="byline">Where I share tools, datasets, and works in progress</span>
+				<span class="byline">Where I share research, tools, datasets, and works in progress</span>
 			</div>
 			<p>If you find something helpful here, please attribute it. If something catches your eye and/or you would like to collaborate, please reach out.</p>
-			<p><a href="#a2">Sunday Schools (1818)</a>&nbsp &nbsp
+			<p><a href="#a4">Social mobility</a>&nbsp &nbsp
+			<a href="#a3">Basic education</a>&nbsp &nbsp
+			<a href="#a2">Sunday Schools (1818)</a>&nbsp &nbsp
 			<a href="#a1">Excel GMaps Plugin</a></p>
+		</div>
+		<!--<div id="featured">
+			<div class="title">
+				<a id="a1"><h2>ELEMENT TITLE HERE</h2></a>
+				<span class="byline">ELEMENT SUBTITLE HERE</span>
+			</div>
+			<ul class="style1">
+			<p>TEXT GOES HERE
+			<p>
+			
+			</ul>
+			<p>&nbsp
+			&nbsp
+			<a href="#">Back to the top</a></p>
+		</div> -->
+		<div id="featured">
+			<div class="title">
+				<a id="a4"><h2>The political economy of skills, occupational entitlements, and social mobility: evidence from industrialising Coventry, 1790-1850</h2></a>
+				<span class="byline"><i>The European Review of Economic History</i>, forthcoming</span>
+			</div>
+			[<a href="https://eprints.lse.ac.uk/126202/" >PDF</a>]
+			[<a href="https://doi.org/10.5281/zenodo.13882352" >Replication File</a>]
+			[<a href="javascript:void(0);" onclick="return podcast('EREH2025.wav','play_2')">AI Podcast here</a>]
+			<p id="play_2"></p>
+			
+			<ul class="style1">
+			<p>&nbsp </p>
+			<p>This paper examines the interaction between political economy and social mobility during ear-ly industrialisation in England. We analyse changes 
+			in male social mobility patterns in indus-trialising Coventry (c.1790-1850) following a transformation of key institutions affecting the labour market.
+			Social mobility was framed by the interaction between trade policy, occupation-al skill formation, and municipal government. Using a longitudinal dataset
+			and regression-discontinuity analysis, we find that liberal reforms to trade policy and municipal government during the late-1820s and early-1830s eroded the 
+			value of industry-specific social capital, while increasing the contribution of general human capital to social mobility. </p>
+			<p>&nbsp </p>
+			<p>Keywords: social mobility, human capital, industrialisation, labour markets, institutions, political economy 
+			</p>
+			
+			
+			</ul>
+			<p>&nbsp
+			&nbsp
+			<a href="#">Back to the top</a></p>
+		</div>
+		<div id="featured">
+			<div class="title">
+				<a id="a3"><h2>The expansion of basic education during ‘deskilling’ technological change in England and Wales, c. 1780-1830</h2></a>
+				<span class="byline"><i>The Economic History Review</i>, Early View</span>
+			</div>
+			[<a class="h" href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/ehr.13354" >PDF</a>]
+			[<a href="https://doi.org/10.5281/zenodo.10984499" >Replication File</a>]
+			[<a href="javascript:void(0);" onclick="return podcast('EHR2024.wav','play_1')">AI Podcast here</a>]
+			<p id="play_1"></p>
+			
+			<ul class="style1">
+			<p>&nbsp </p>
+			<p>The first country to industrialize—England—ostensibly did so without expanding investment in the basic education of its workforce. The empirical 
+			evidence underpinning this argument for England rests largely on signature rates at marriage. These are not a perfect indication of educational 
+			achievement, particularly as many children never learned to write. More problematically, I argue signatures are likely to have systematically underestimated
+			human capital in industrial districts. In place of signatures data, I propose age heaping, a measure widely understood as a proxy for numeracy but shown here
+			to be closely related to both reading and writing abilities. In contrast to signatures, this measure suggests that 'deskilling' industrialisation induced human
+			capital accumulation. I argue that this occurred not because human capital was directly productive but rather because schools provided a valuable signal. Sunday school
+			attendance signalled low leisure-preference among child workers and were popularly attended in industrial districts. Further, such schools taught children to read
+			but not write, which they considered inappropriate for the Sabbath, accounting for the discrepancy between these two measures of human capital. </p>
+			<p>&nbsp </p>
+			<p>JEL Codes: [J24] Human Capital • Skills • Occupational Choice • Labor Productivity; [O31] Innovation and Invention: Processes and Incentives; [N33] Europe: Pre-1913
+			</p>
+			
+			
+			</ul>
+			<p>&nbsp
+			&nbsp
+			<a href="#">Back to the top</a></p>
 		</div>
 		<div id="featured">
 			<div class="title">
