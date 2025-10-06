@@ -88,20 +88,20 @@ function podcast(file,id) {
 		</div> -->
 		<div id="featured">
 			<div class="title">
-				<a id="a6"><h2>Was there a family economics before 1870?: marital birth control in a long-running natural experiment, London, c. 1760-1870</h2></a>
+				<a id="a6"><h2>Endogenous fertility in pre-transition England</h2></a>
 				<span class="byline">Working paper</span>
 			</div>
-			[<a href="Was_there_an_economics_of_the_family_before_1870_.pdf" >PDF</a>]
+			[<a href="Endogenous_fertility_in_pre_transition_England.pdf" >PDF</a>]
 			[<a href="javascript:void(0);" onclick="return podcast('REStud.wav','play_4')">AI Podcast here</a>]
 			<p id="play_4"></p>
 			
 			<ul class="style1">
 			<p>&nbsp </p>
-			<p>In late nineteenth-century England, marital fertility rapidly declined. Demographers debate whether this was a behavioral 'innovation' or a rational
-			'adaptation'. This paper argues for the latter hypothesis with evidence from a London charity (1758–1870) exhibiting the existence of within-marriage 
-			fertility choice before the demographic transition. Unmarried women eligible for a £100 wedding lottery could re-enter subsequent draws if unsuccessful,
-			delaying their marriage. Without fertility choice, later marriage would lead to fewer births. However, delayed marriage was compensated through shorter birth 
-			intervals, resulting in no difference in completed family size by lottery outcome—evidence that pre-transition married couples controlled births.</p>
+			<p>Was family planning a cultural innovation that initiated the fertility transition in England? Evidence from a charitable
+			lottery in London that exogenously affected the timing of marriage suggests married couples practiced birth control long before
+			the fertility transition. Birth intervals decreased in marriage age to eliminate fertility differences that would be expected
+			under natural fertility. Family planning was thus a necessary but insufficient condition for demographic change because fertility
+			could have been lower but was not.</p>
 			<p>&nbsp </p>
 			<p>Keywords: Fertility; demographic transition; economic growth
 			</p>
@@ -176,9 +176,9 @@ function podcast(file,id) {
 		<div id="featured">
 			<div class="title">
 				<a id="a3"><h2>The expansion of basic education during ‘deskilling’ technological change in England and Wales, c. 1780-1830</h2></a>
-				<span class="byline"><i>The Economic History Review</i>, Early View</span>
+				<span class="byline"><i>The Economic History Review</i>, vol. 78, issue 2 (2025)</span>
 			</div>
-			[<a class="h" href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/ehr.13354" >PDF</a>]
+			[<a class="h" href="https://onlinelibrary.wiley.com/doi/pdf/10.1111/ehr.13354" >Paper</a>]
 			[<a href="https://doi.org/10.5281/zenodo.10984499" >Replication File</a>]
 			[<a href="javascript:void(0);" onclick="return podcast('EHR2024.wav','play_1')">AI Podcast here</a>]
 			<p id="play_1"></p>
