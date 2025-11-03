@@ -66,6 +66,7 @@ function podcast(file,id) {
 			</div>
 			<p>If you find something helpful here, please attribute it. If something catches your eye and/or you would like to collaborate, please reach out.</p>
 			<a href="#a6">Fertility transition</a>&nbsp &nbsp
+			<a href="#aECE">Early Childhood</a>&nbsp &nbsp
 			<a href="#a5">Breastfeeding</a>&nbsp &nbsp
 			<a href="#a4">Social mobility</a></p>
 			<p><a href="#a3">Basic education</a>&nbsp &nbsp
@@ -116,7 +117,7 @@ function podcast(file,id) {
 		</div>
 		<div id="featured">
 			<div class="title">
-				<a id="a5"><h2>Innocence and experience: early childhood education as an externality in eighteenth-century London</h2></a>
+				<a id="aECE"><h2>Innocence and experience: early childhood education as an externality in eighteenth-century London</h2></a>
 				<span class="byline">Working Paper</span>
 			</div>
 			[<a href="innoncence_and_experience.pdf" >PDF</a>]
