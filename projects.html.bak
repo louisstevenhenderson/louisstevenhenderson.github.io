@@ -861,7 +861,7 @@ for row_index in range(len(data)):
 			<a href="#">Back to the top</a></p>
 		</div>
 		<div id="copyright">
-			<span>Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</span> [<a href="hartley2.pdf" >PDF</a>]
+			<span>Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</span>
 		</div>
 	</div>
 </div>
