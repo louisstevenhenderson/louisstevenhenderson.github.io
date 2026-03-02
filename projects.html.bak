@@ -50,7 +50,7 @@ function podcast(file,id) {
 				<li><a href="cv.html" accesskey="2" title="">CV</a></li>
 				<li class="current_page_item"><a href="#" accesskey="3" title="">Projects</a></li>
 				<li><a href="teaching.html" accesskey="4" title="">Teaching</a></li>
-				<li><a href="mailto:louis.henderson@wiso.uni-tuebingen.de" accesskey="5" title="">Contact</a></li>
+				<li><a href="mailto:l.henderson2@lse.ac.uk" accesskey="5" title="">Contact</a></li>
 			</ul>
 		</div>
 	</div>
@@ -148,7 +148,7 @@ function podcast(file,id) {
 				<a id="aBF"><h2>Spilled milk: valuing six centuries of unpaid breastfeeding in England</h2></a>
 				<span class="byline">with Jane Humphries (Oxford), Working Paper</span>
 			</div>
-			[<a href="spilled_milk.pdf" >PDF</a>]
+			[<a href="https://academic.oup.com/oxrep/article/41/3-4/745/8502720" >PDF</a>]
 			
 			<ul class="style1">
 			<p>&nbsp </p>
