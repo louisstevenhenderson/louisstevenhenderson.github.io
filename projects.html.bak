@@ -145,10 +145,10 @@ function podcast(file,id) {
 		</div>
 		<div id="featured">
 			<div class="title">
-				<a id="aBF"><h2>Spilled milk: valuing six centuries of unpaid breastfeeding in England</h2></a>
-				<span class="byline">with Jane Humphries (Oxford), Working Paper</span>
+				<a id="aBF"><h2>Valuing six centuries of unpaid breastfeeding in England</h2></a>
+				<span class="byline">with Jane Humphries (Oxford), accepted at <i>PNAS</i></span>
 			</div>
-			[<a href="https://academic.oup.com/oxrep/article/41/3-4/745/8502720" >PDF</a>]
+			[<a href=#>Link</a>]
 			
 			<ul class="style1">
 			<p>&nbsp </p>
@@ -176,9 +176,9 @@ function podcast(file,id) {
 		<div id="featured">
 			<div class="title">
 				<a><h2>The economic history of caring labour: a case study of breastfeeding</h2></a>
-				<span class="byline">with Jane Humphries (Oxford), <i>Oxford Review of Economic Policy</i>, forthcoming</span>
+				<span class="byline">with Jane Humphries (Oxford), <i>Oxford Review of Economic Policy</i> 41, issue 3-4.</span>
 			</div>
-			[<a href="breastfeeding_oxrep.pdf" >PDF</a>]
+			[<a href="https://academic.oup.com/oxrep/article/41/3-4/745/8502720" >PDF</a>]
 			[<a href="javascript:void(0);" onclick="return podcast('OXREP2025.wav','play_3')">AI Podcast here</a>]
 			<p id="play_3"></p>
 			
