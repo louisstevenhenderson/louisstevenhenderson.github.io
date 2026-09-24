@@ -146,7 +146,7 @@ function podcast(file,id) {
 		<div id="featured">
 			<div class="title">
 				<a id="aBF"><h2>Valuing five centuries of unpaid breastfeeding in England</h2></a>
-				<span class="byline">with Jane Humphries (Oxford), accepted at <i>PNAS</i></span>
+				<span class="byline">with Jane Humphries (Oxford), <i>PNAS</i> 123, no. 39</span>
 			</div>
 			[<a href=https://www.pnas.org/doi/10.1073/pnas.2600844123>Link</a>]
 			
